@@ -1,0 +1,13 @@
+Info: Checking netlist symbol footprint "C1:/610DF8D2:Capacitor_THT:CP_Radial_D12.5mm_P7.50mm".
+Info: Checking netlist symbol footprint "C2:/610E5E52:Capacitor_THT:C_Disc_D8.0mm_W5.0mm_P5.00mm".
+Info: Checking netlist symbol footprint "D1:/610DE470:Diode_THT:D_DO-15_P15.24mm_Horizontal".
+Info: Checking netlist symbol footprint "D2:/610DE542:Diode_THT:D_DO-15_P15.24mm_Horizontal".
+Info: Checking netlist symbol footprint "D3:/610DE8D1:Diode_THT:D_DO-15_P15.24mm_Horizontal".
+Info: Checking netlist symbol footprint "D4:/610DEE05:Diode_THT:D_DO-15_P15.24mm_Horizontal".
+Info: Checking netlist symbol footprint "D5:/610E09F3:LED_THT:LED_D8.0mm".
+Info: Checking netlist symbol footprint "J1:/610F2F09:TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-3-2-5.08_1x02_P5.08mm_Horizontal".
+Info: Checking netlist symbol footprint "J2:/610F4585:TerminalBlock:TerminalBlock_bornier-2_P5.08mm".
+Info: Checking netlist symbol footprint "R1:/610E780B:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal".
+Info: Checking netlist symbol footprint "R2:/610DFD5C:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal".
+Info: Checking netlist symbol footprint "U1:/610E026C:Package_TO_SOT_THT:TO-220-3_Vertical".
+Warning: Footprint of C2 changed: board footprint "Capacitor_THT:C_Disc_D16.0mm_W5.0mm_P10.00mm", netlist footprint "Capacitor_THT:C_Disc_D8.0mm_W5.0mm_P5.00mm".
